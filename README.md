@@ -1,7 +1,9 @@
 # 4조 - 온라인 서점
 ![66BF4C69-919E-43ED-94BC-69380D5953B8](https://user-images.githubusercontent.com/63284387/79724036-d2ae0200-8321-11ea-8fde-47aa71c1ddc6.jpeg)
 http://msaez.io/#/storming/5K7xe89wIvPDq6NI6tfSqdVtycE3/mine/a9af81324aa04f2356bb34780db34c03/-M5LUbfsnpfRQxExN0ZG
+
  - Cloud 구현 화면 (CI/CD)
+ 
 ![k8s_kafka](https://user-images.githubusercontent.com/63284387/79842685-20933a80-83f4-11ea-8678-86d90e1b69ff.PNG)
 ![k8s_service](https://user-images.githubusercontent.com/63284387/79842690-212bd100-83f4-11ea-8983-a42242917633.PNG)
 ![cicd_pipeline](https://user-images.githubusercontent.com/63284387/79842694-21c46780-83f4-11ea-9611-b9257121b220.PNG)
